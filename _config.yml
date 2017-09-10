@@ -12,5 +12,4 @@ sass:
   sass_dir: assets/css
   style: :nested
 
-baseurl: "" # the subpath of your site, e.g. /blog/
- url: "http://ayla-tk.com" # the base hostname & protocol for your site
+
